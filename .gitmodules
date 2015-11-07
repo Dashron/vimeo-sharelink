@@ -1,0 +1,3 @@
+[submodule "vimeo.php"]
+	path = vimeo.php
+	url = git@github.com:vimeo/vimeo.php.git
